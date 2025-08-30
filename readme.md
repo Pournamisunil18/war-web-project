@@ -46,7 +46,7 @@ and select *./target/wwp-1.0.0.war*. Once done, click the *Launch*
 link and you're all set to try your new application. It will be made available
 at *http://localhost:8080/wwp-1.0.0*.
 
-# How do I configure my application?
+# How do I configure my application? look
 
 ## The web page
 
